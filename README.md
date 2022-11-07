@@ -9,6 +9,7 @@
 6. Docker
 7. Cypress
 8. Storybook.js
+9. Typescript
 
 #### Backend and Frontend
 - MongoDB with express
