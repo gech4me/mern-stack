@@ -1,5 +1,5 @@
 ### MERN Stack
-
+![alt MERN Stack](https://github.com/gech4me/mern-stack/blob/main/stack.png)
 #### Tech:
 1. React frontend
 2. MongoDB
